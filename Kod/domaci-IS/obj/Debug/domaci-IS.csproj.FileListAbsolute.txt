@@ -1,0 +1,7 @@
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\domaci-IS\domaci-IS\bin\Debug\domaci-IS.exe.config
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\domaci-IS\domaci-IS\bin\Debug\domaci-IS.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\domaci-IS\domaci-IS\bin\Debug\domaci-IS.pdb
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\domaci-IS\domaci-IS\obj\Debug\domaci-IS.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\domaci-IS\domaci-IS\obj\Debug\domaci-IS.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\domaci-IS\domaci-IS\obj\Debug\domaci-IS.exe
+C:\Users\Korisnik\Desktop\Fakultet\OOP2(C#)\Vezbanje\domaci-IS\domaci-IS\obj\Debug\domaci-IS.pdb
